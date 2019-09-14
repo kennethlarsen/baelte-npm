@@ -1,6 +1,6 @@
 {
   "name": "baelte",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool that helps you be productive with Svelte",
   "main": "index.js",
   "scripts": {
