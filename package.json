@@ -1,0 +1,24 @@
+{
+  "name": "baelte",
+  "version": "1.0.0",
+  "description": "CLI tool that helps you be productive with Svelte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennethlarsen/baelte-npm.git"
+  },
+  "keywords": [
+    "Svelte",
+    "CLI"
+  ],
+  "preinstall": "node install.js",
+  "author": "Kenneth Larsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennethlarsen/baelte-npm/issues"
+  },
+  "homepage": "https://github.com/kennethlarsen/baelte-npm#readme"
+}
